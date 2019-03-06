@@ -1,0 +1,22 @@
+.header {
+  background: #cbc693;
+}
+
+.parent {
+  display: flex;
+  background: #cbc693;
+  justify-content: flex-end;
+  color:#fffff7;
+
+}
+
+.header-menu {
+  display: flex;
+  align-items: center;
+  margin-right: 16px;
+  color: #fffff7;
+}
+
+.fa-chevron-circle-right {
+  margin: 16px;
+}
