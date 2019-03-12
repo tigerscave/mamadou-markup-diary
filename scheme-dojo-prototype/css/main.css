@@ -26,6 +26,10 @@ img {
   width: 35px;
   height: 35px;
   border-width: medium;
+  border-radius: 50px;
+  box-shadow: 4px 4px;
+  color: red;
+
 }
 .page-container {
   padding-left: 160px;
@@ -44,4 +48,13 @@ hr {
     border-top:1px solid #cbc693;
     margin:1em 0;
     padding:0;
+}
+
+.menu-box {
+display: flex;
+justify-content: space-evenly;
+border: solid;
+border-color:#cbc693;
+border-width: 1px;
+background-color: #fffff7;
 }
