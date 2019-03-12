@@ -58,3 +58,8 @@ border-color:#cbc693;
 border-width: 1px;
 background-color: #fffff7;
 }
+
+.intro-menu {
+  display: flex;
+  justify-content:flex-start;
+}
