@@ -59,7 +59,7 @@ hr {
   border: 1px solid;
   border-color:#cbc693;
   background-color: #fffff7;
-  margin-top: 50px;
+  margin-top: 25px;
 }
 
 .info-pra {
@@ -72,9 +72,17 @@ hr {
   border: 1px solid;
   border-color: #cbc693;
   background-color: #fffff7;
-  margin-top: 50px;
+  margin-top: 25px;
 }
 
 .intro-pra {
   margin-left: 15px;
+
+}
+
+.header-title {
+  border: 1px solid;
+  border-color: #cbc693;
+  background-color: #fffff7;
+  margin-top: 25px;
 }
