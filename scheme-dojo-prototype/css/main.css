@@ -92,6 +92,8 @@ hr {
   margin-bottom: 5px;
 }
 
-.fa-chevron-circle-right {
-  margin-left: 15px;
+.introduction {
+  display: flex;
+  align-items: flex-start;
+
 }
