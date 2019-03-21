@@ -19,7 +19,8 @@
 }
 
 .fa-chevron-circle-right {
-  margin: 16px;
+  margin-right: 16px;
+
 }
 
 img {
@@ -31,6 +32,7 @@ img {
   color: red;
 
 }
+
 .page-container {
   padding-left: 160px;
   padding-right: 160px;
@@ -94,6 +96,6 @@ hr {
 
 .introduction {
   display: flex;
-  align-items: flex-start;
-
+  align-items: center;
+  color: brown;
 }
