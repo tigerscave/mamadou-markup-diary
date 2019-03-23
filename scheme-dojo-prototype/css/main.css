@@ -24,12 +24,12 @@
 }
 
 img {
-  width: 35px;
-  height: 35px;
-  border-width: medium;
-  border-radius: 50px;
-  box-shadow: 4px 4px;
-  color: red;
+  width: 150px;
+  height: 150px;
+  border-width: solid 1px #555;
+  border-radius: 100px;
+  box-shadow: 2px 2px;
+  background-color: #eed;
 
 }
 
@@ -54,7 +54,7 @@ background-color: #fffff7;
 
 hr {
   border-top: 1px solid #cbc693;
-  margin-top: 50px;
+  margin-top: 25px;
 }
 
 .info {
