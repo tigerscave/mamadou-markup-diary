@@ -18,9 +18,11 @@ background:  red;
 .menu-box {
   color:  white;
   position: absolute;
-  top: 150px;
+  top: 200px;
    left: 250px;
-
+   width:  50%;
+   text-align: center;
+   color: green;
 }
 
 img {
@@ -31,5 +33,5 @@ width:100%;
 .header-title {
   display: flex;
   justify-content: space-evenly;
-  
+  color: green;
 }
