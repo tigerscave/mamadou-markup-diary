@@ -13,3 +13,25 @@ body {
   color: #00ffd5;
 
 }
+
+hr{
+  height: 1px;
+  color: #00ffdf;
+  background-color: #00ffdf;
+  border: none;
+  margin-bottom:35px;
+
+}
+
+.intro-title {
+  color: #00ffd5;
+  display: flex;
+  justify-content: space-evenly;
+}
+
+.items {
+  width: 300px;
+  border: 2px solid green;
+  padding: 25px;
+  margin: 25px;
+}
