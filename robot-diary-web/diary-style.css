@@ -35,3 +35,8 @@ hr{
   padding: 25px;
   margin: 25px;
 }
+
+.column {
+  display: flex;
+  justify-content: space-evenly;
+}
