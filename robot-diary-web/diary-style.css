@@ -2,12 +2,6 @@ body {
   background: #001e1f;
 }
 
-.page-container {
-  background: white;
-  display: flex;
-  justify-content: space-evenly;
-}
-
 .page-title {
   text-align: center;
   color: #00ffd5;
@@ -31,12 +25,16 @@ hr{
 
 .items {
   width: 300px;
-  border: 2px solid green;
+  border: 30px solid green;
   padding: 25px;
   margin: 25px;
+  background: white;
 }
 
 .column {
   display: flex;
   justify-content: space-evenly;
+  color: red;
+
+
 }
