@@ -21,6 +21,7 @@ hr{
   color: #00ffd5;
   display: flex;
   justify-content: space-evenly;
+  margin-bottom: 50px;
 }
 
 
@@ -28,6 +29,7 @@ hr{
 .column {
   flex: 33.33%;
   padding: 5px;
+  margin: 5px;
 
 }
 
@@ -38,10 +40,6 @@ hr{
 img {
   width: 300px;
   height: 300px;
-  border-width: solid 2px #555;
-  border: 50px;
-  box: 50px;
-  background-color: #eed;
-  margin: 15px;
+  border: solid 5px #00ffd5;
 
 }
