@@ -28,9 +28,6 @@ hr{
 .column {
   flex: 33.33%;
   padding: 5px;
-  margin-left: 50px;
-  margin-top: 50px;
-  margin-bottom: 50px;
 
 }
 
@@ -39,11 +36,12 @@ hr{
 }
 
 img {
-  width: 150px;
-  height: 150px;
-  border-width: solid 1px #555;
-  border-radius: 100px;
-  box-shadow: 2px 2px;
+  width: 300px;
+  height: 300px;
+  border-width: solid 2px #555;
+  border: 50px;
+  box: 50px;
   background-color: #eed;
+  margin: 15px;
 
 }
