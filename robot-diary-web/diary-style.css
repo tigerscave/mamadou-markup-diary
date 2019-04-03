@@ -23,6 +23,8 @@ hr{
   justify-content: space-evenly;
   border: solid 1px #00ffdf;
   background-color: #1f4448;
+  height: 100px;
+  
 
 
 }
@@ -47,4 +49,5 @@ img {
   border: solid 5px #00ffd5;
   padding-bottom: 100px;
   background-color: #053742;
+
 }
