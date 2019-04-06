@@ -22,9 +22,10 @@ hr{
   display: flex;
   justify-content: space-evenly;
   background-color: #1f4448;
-
-
-
+  position: absolute;
+  left: 0px;
+  bottom: 0px;
+  right: 0;
 }
 
 .column {
