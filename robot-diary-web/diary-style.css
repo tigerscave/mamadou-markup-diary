@@ -21,11 +21,11 @@ hr{
 .intro-title {
   display: flex;
   justify-content: space-evenly;
-  background-color: #1f4448;
+  background-color: #0077ca;
   position: absolute;
   left: 0px;
   bottom: 0px;
-  right: 0;
+  right: 1px;
 }
 
 .column {
@@ -51,6 +51,6 @@ img {
   border:  solid 1px;
   margin-left: 80px;
   margin-right: 80px;
-  height: 100px;
+  height: 75px;
 
 }
