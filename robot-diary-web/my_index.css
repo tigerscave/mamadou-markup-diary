@@ -1,9 +1,40 @@
 body {
-  background-color: red;
+  display: flex;
+  flex-direction: column;
+  height: 100%;
 
+}
+
+html,header {
+  padding: 0;
+  height: 100%;
+  margin: 0px;
+  overflow: hidden;
 }
 
 header {
   background-color: blue;
+  flex: 0 0 40px;
+  color: white;
+  padding: 20px;
+  text-align: center;
+
+}
+
+footer {
+  background-color: red;
+  flex: 0 0 40px;
+  color: white;
+  padding: 20px;
+  text-align: center;
+}
+
+article {
+  background-color: green;
+  flex: 0 0 40px;
+  color: white;
+  padding: 40px;
+  text-align: center;
+
 
 }
