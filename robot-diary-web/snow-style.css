@@ -1,0 +1,22 @@
+body {
+  background-color: #0077ca;
+}
+
+.row {
+  display: flex;
+}
+
+.column {
+  flex: 33.33%;
+  padding: 10px;
+}
+
+hr {
+  border: solid 2px green;
+
+}
+
+.text {
+  border: solid 2px;
+  background-color: #aa7000;
+}
